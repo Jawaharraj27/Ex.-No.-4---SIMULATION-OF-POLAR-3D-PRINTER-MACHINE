@@ -27,14 +27,17 @@
 
 ## OUTPUT:
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/9e41de91-6dcc-4352-ab44-443028d3ac1a)
+![Screenshot 2023-11-28 153819](https://github.com/Jawaharraj27/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/139842416/054e5ea5-d8f7-462f-b384-76175edec586)
+![Screenshot 2023-11-28 153827](https://github.com/Jawaharraj27/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/139842416/1c7171f4-9811-457d-bec1-cefd3ec848b2)
+
+
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:JAWAHAR RAJ N
+### Register Number:23000787
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
